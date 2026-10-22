@@ -1,17 +1,35 @@
-# simulador_investimentos
+=======
+# Simulador-de-Investimentos-Comparação-de-Rendimentos
 
-A new Flutter project.
+Aplicativo desenvolvido em Flutter para comparar dois investimentos e calcular seus rendimentos ao longo do tempo.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Cadastro dos dados de dois investimentos.
+- Cálculo de juros compostos.
+- Comparação do montante final e do rendimento.
+- Gráfico comparativo dos investimentos.
+- Histórico da evolução mensal dos saldos.
+- Validação dos campos preenchidos.
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias utilizadas
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Como executar
+
+1. Instale o Flutter e configure o ambiente.
+2. Clone o repositório.
+3. Abra a pasta do projeto no VS Code.
+4. Execute no terminal:
+
+```bash
+flutter pub get
+flutter run
+```
+
+## Objetivo
+
+Praticar o desenvolvimento de aplicativos com Flutter, utilizando formulários, cálculos, navegação entre telas e apresentação de resultados.
+>>>>>>> 344c86ea7d5537e8611b98cfdf4cc11f6e52470b
